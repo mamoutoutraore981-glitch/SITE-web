@@ -1,0 +1,60 @@
+MOUTOU GRAPHIC — Site portfolio
+Graphiste & Brand Designer
+Mail : mamoutoutraore981@gmail.com — Tél / WhatsApp : +223 93 93 17 37
+=====================================================================
+
+CONTENU DU DOSSIER
+------------------
+index.html  -> la page du site (textes, mise en page, animations, galeries)
+images/     -> les 181 images des projets (format WebP)
+
+IMPORTANT : index.html et le dossier images doivent toujours rester
+côte à côte, au même endroit. Ne renommez pas le dossier "images".
+
+
+METTRE LE SITE EN LIGNE
+-----------------------
+Option 1 — Netlify (gratuit, le plus simple)
+  1. Allez sur https://app.netlify.com et créez un compte.
+  2. Menu "Sites" > "Add new site" > "Deploy manually".
+  3. Glissez TOUT le dossier "moutou-graphic-site" dans la zone.
+  4. Le site est en ligne en 1 minute. Vous pouvez changer le nom
+     dans "Site configuration" (ex. moutougraphic.netlify.app).
+
+Option 2 — Hébergeur classique (Hostinger, o2switch, OVH...)
+  1. Ouvrez le gestionnaire de fichiers ou un logiciel FTP (FileZilla).
+  2. Envoyez index.html ET le dossier images dans "public_html".
+
+Autres options gratuites : GitHub Pages, Vercel, Cloudflare Pages.
+
+
+NOM DE DOMAINE
+--------------
+Pour avoir une adresse comme moutougraphic.com, achetez le domaine
+(Namecheap, Hostinger, OVH...) puis reliez-le dans les réglages
+"Domain" de votre hébergeur.
+
+
+SECTIONS DU SITE
+----------------
+- Accueil : nom, accroche, cartes de projets animées
+- Profil : photo, présentation, compétences, logiciels maîtrisés
+- Chiffres : 200+ projets livrés, clients, services
+- Services : 6 services, le Branding en premier
+- Projets : grille avec filtres (Tout / Logos / Flyers / Réseaux sociaux)
+  et galerie qui s'ouvre au clic
+- Konatech Agency : projets réalisés en agence (droits Konatech)
+- Contact : mail, appel, WhatsApp, TikTok, Facebook
+- Bouton WhatsApp flottant en bas à droite
+
+
+MODIFIER LE SITE
+----------------
+Le plus simple : demandez à Claude d'ajouter un projet ou de changer
+un texte, puis renvoyez le nouveau dossier chez l'hébergeur.
+
+Changer un texte à la main : ouvrez index.html avec un éditeur
+(Bloc-notes, VS Code), cherchez le texte (Ctrl+F), modifiez, enregistrez.
+
+Note : la police vient de Google Fonts, elle s'affiche quand le site
+est en ligne (connexion internet nécessaire).
