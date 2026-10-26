@@ -6,7 +6,7 @@ Mail : mamoutoutraore981@gmail.com — Tél / WhatsApp : +223 93 93 17 37
 CONTENU DU DOSSIER
 ------------------
 index.html  -> la page du site (textes, mise en page, animations, galeries)
-images/     -> les 181 images des projets (format WebP)
+images/     -> les 212 images des projets (format WebP)
 
 IMPORTANT : index.html et le dossier images doivent toujours rester
 côte à côte, au même endroit. Ne renommez pas le dossier "images".
